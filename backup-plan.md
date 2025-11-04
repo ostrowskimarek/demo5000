@@ -14,4 +14,4 @@ A proper strategy combines **local** and **cloud** backups.
 - Keep at least **3 copies** of important data.  
 - Store backups in **2 different physical locations**.  
 - Test restoration regularly — a backup that can’t be restored is useless.  
-- Encrypt sensitive data before uploading it to the cloud.
+- Encrypt sensitive data before uploading it to the cloud..
